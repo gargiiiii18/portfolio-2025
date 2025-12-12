@@ -20,9 +20,3 @@ A modern, responsive portfolio website showcasing my skills as a Full-Stack Deve
 - **Icons**: Lucide React
 - **Deployment**: Vercel
 
-
-Project Link: [https://github.com/gargiiiii18/portfolio-2025](https://github.com/gargiiiii18/portfolio-2025)
-
----
-
-⭐ Star this repo if you found it helpful!
