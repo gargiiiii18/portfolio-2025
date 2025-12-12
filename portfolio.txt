@@ -1,0 +1,176 @@
+Developer Portfolio Website Guide (Custom Dark + 3D Eevee)
+
+A portfolio website is one of the most powerful tools for developers to showcase their skills, projects, and personality. Beyond being a project in itself, it acts as your 24/7 marketing representative. This guide explains what to include, how to use it effectively, and how to make it SEO-friendly so it brings opportunities to you.
+
+The changes here include:
+
+Dark theme (deep blue preferred, not pure black)
+
+Projects section shows GitHub links only (no live/demo links since none are deployed yet)
+
+Interactive 3D Eevee model rendered in the hero section, responsive and rotatable by users
+
+🔑 Important Sections of a Portfolio Website
+1. Hero / Introduction
+
+Short statement about who you are.
+
+Example: “Hi, I’m Harsh — a full-stack developer who loves building scalable systems.”
+
+Interactive 3D Eevee model (.glb file included named as eevee.glb) displayed beside your name:
+
+Users can rotate it.
+
+Resizes according to screen size (responsive).
+
+Framework: implement in your current React/Next.js setup (switch frameworks only if absolutely necessary).
+
+Background: deep blue / dark theme.
+
+Optional: a professional photo or illustration (if desired alongside Eevee).
+
+2. About Me
+
+Short bio: your background, passions, and current focus.
+
+Keep it approachable and personal.
+
+Maintain dark theme aesthetics.
+
+3. Projects / Work
+
+Highlight 3–6 best projects.
+
+Each should include:
+
+Screenshot/demo (optional)
+
+Short description
+
+Tech stack used
+
+GitHub link only (no live/demo links)
+
+4. Skills / Tech Stack
+
+Showcase languages, frameworks, and tools.
+
+Use visuals (icons, categories like Frontend/Backend/Database).
+
+5. Experience / Education
+
+Key highlights of work and education.
+
+Shorter than a resume but builds credibility.
+
+6. Contact / Call to Action
+
+Include email, LinkedIn, GitHub, and other relevant links.
+
+A simple contact form works well.
+
+🌟 Optional but Valuable Sections
+
+Blog / Writing (thought leadership)
+
+Testimonials / Recommendations
+
+Resume download
+
+Fun/personal section (hobbies, open-source contributions)
+
+🚀 Using Your Portfolio to Market Yourself
+
+Make it Discoverable
+
+Use a custom domain (e.g., yourname.dev).
+
+Optimize for mobile and speed.
+
+Use It in Job Hunting
+
+Add portfolio link to LinkedIn, GitHub, resume, email signature.
+
+Share project GitHub links relevant to each role.
+
+Content That Markets You
+
+Add case studies (why you built a project, what problem it solved).
+
+Write blogs or notes on technical learnings.
+
+Showcase open-source contributions.
+
+Promote Actively
+
+Share portfolio updates on LinkedIn, Twitter/X, Reddit dev communities.
+
+Mention it when networking or introducing yourself.
+
+Show Personality
+
+Share your story and interests, not just tech skills.
+
+Tailor for Opportunities
+
+Jobs → Highlight teamwork and relevant tech.
+
+Freelance → Emphasize end-to-end delivery.
+
+Personal brand → Add blogs, talks, or teaching work.
+
+🎯 Making Your Portfolio SEO-Friendly
+
+Domain & Metadata
+
+Custom domain like yourname.dev.
+
+Add <title> and <meta description> tags with your name and skills.
+
+Headings & Keywords
+
+One <h1> per page describing who you are.
+
+Use natural keywords (e.g., “React Developer,” “Full-Stack Engineer”).
+
+Alt Text for Images
+
+Describe project screenshots for accessibility and SEO.
+
+Performance & Mobile Optimization
+
+Compress images, use lazy loading.
+
+Test with Google PageSpeed Insights.
+
+Clean URLs
+
+Use yourname.dev/projects/ola-system instead of ?id=123.
+
+Sitemap & Robots.txt
+
+Add sitemap.xml and robots.txt so Google can crawl your site.
+
+HTTPS
+
+Always use SSL certificates (free via Let’s Encrypt).
+
+Blogging for SEO
+
+Write posts about your projects and learnings.
+
+Example: “Scaling APIs for 1M+ users at Ola.”
+
+Backlinks
+
+Link portfolio from LinkedIn, GitHub, Medium, and communities.
+
+Structured Data (Schema.org)
+
+Use JSON-LD for Person/Project schema so Google shows rich snippets.
+
+✅ Key Takeaway
+
+Your portfolio website isn’t just a showcase — it’s a marketing engine. Build it with the right sections, market it through your networks, optimize it for search engines, and let your 3D Eevee steal the spotlight in the hero section. Opportunities should find you, not the other way around.
+
+If you want, I can also write the exact React/Next.js code snippet to embed that interactive .glb Eevee model in the hero section that resizes responsively and works perfectly with your current dark-themed portfolio.

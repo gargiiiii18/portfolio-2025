@@ -1,0 +1,66 @@
+Gargi Sukhatankar
+ Full-Stack Web Developer — AI/ML Integration
+ +91 7678012479 
+Summary
+ gargi.p.sukhatankar@gmail.com 
+Portfolio
+ LinkedIn 
+GitHub
+ Full-stack developer with a focus on modern web stacks and AI/ML integration. Experienced in building intelligent, scalable web
+ applications with seamless user experience and robust backend logic. Passionate about combining clean UI/UX with machine
+ learning to deliver meaningful, data-driven solutions.
+ Education
+ BTech in Computer Science & Engineering (IoT, Cybersecurity, Blockchain)
+ Dwarkadas J. Sanghvi College of Engineering
+ CGPA: 9.35 / 10
+ Honours Degree in Smart Computing
+ Nov 2022– Present
+ Nov 2022– Present
+ Focused on advanced computation and data-driven systems with interdisciplinary exposure to AIML and big data.
+ HSC (Science)– K. C. College
+ Score: 76.67%
+ SSC– Girton High School
+ Score: 94.20%
+ Skills
+ 2020– 2022
+ 2009– 2020
+ Languages: C, Python, Java, JavaScript
+ Frontend: HTML, CSS, Tailwind CSS, React.js, Next.js
+ Backend: Node.js, Express.js, Django
+ Databases: MySQL, PostgreSQL, MongoDB Atlas, ChromaDB
+ AI/ML: TensorFlow, Keras, FastAPI
+ Cloud: AWS UI/UX: Figma Version Control: Git, Github
+ Projects
+ Suggestique
+ Next.js, Node.js, MongoDB Atlas, Tailwind CSS, Stripe, NextAuth, TensorFlow, FastAPI, ChromaDB
+ Built an AI-powered e-commerce platform with secure user authentication using NextAuth for fashion recommendations. Users
+ receive curated outfit suggestions based on inputs like gender, country, formality, and occasion. Integrated a machine learning
+ model using TensorFlow served via FastAPI, with embeddings stored in ChromaDB for fast vector-based retrieval. Stripe API
+ enabled secure payments. Designed responsive UI in Tailwind CSS with robust backend logic in Node.js, ensuring both performance
+ and personalization.
+ GitHub: github.com/gargiiiii18/Suggestique
+ IPL Auction Game
+ React.js, Node.js, Express.js, PostgreSQL
+ Simulated IPL-style player auction game with real-time bidding and team management. Developed a RESTful backend with
+ Node.js and Express to manage auction states, player data, and bidding logic. PostgreSQL handled structured data including
+ player stats and team balance. The front end used React to create a responsive, dynamic bidding UI with team budget validations.
+ GitHub: github.com/gargiiiii18/ipl-auction
+ Plant Disease Prediction System
+ Python, TensorFlow, Keras, Streamlit
+ Web-based application that uses a CNN model to detect plant diseases from leaf images. Trained on a dataset with high class
+ diversity, achieving strong validation accuracy. Integrated with a Streamlit front end allowing farmers to upload images and receive
+ instant diagnosis. Future-ready for integration with mobile apps and SMS-based alerts.
+ GitHub: github.com/gargiiiii18/ipl-auction
+ Other Activities
+ Participant, MumbaiHacks 2024
+ Collaborated in a 24-hour hackathon to design and prototype innovative tech solutions.
+ Participant, Smart India Hackathon (SIH) 2024
+ Worked on real-world problem statements with a focus on scalable and impactful solutions.
+ Artist, DJS Beats
+ Performed and contributed to cultural events as part of the college music committee.
+ Frontend Mentee, DJS Buildspace
+ Oct 2024
+ Sept 2024
+ Nov 2023– Aug 2024
+ Oct 2023– Aug 2024
+ Gained mentorship in frontend development practices and contributed to team projects.
