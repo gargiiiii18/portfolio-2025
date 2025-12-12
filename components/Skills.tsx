@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Code, Database, Brain, Cloud, Palette, Git } from 'lucide-react'
+import { Code, Database, Brain, Cloud, Palette} from 'lucide-react'
 
 const Skills = () => {
   const skillCategories = [
